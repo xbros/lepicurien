@@ -1,18 +1,18 @@
 Some data manipluation for L'Epicurien
 =======================================
 
-# install R
+install R
 ```
 sudo apt install r-base
 ```
 
-# start R
+start R
 ```
 cd /path/to/your/data
 R
 ```
 
-# run R script
+run R script
 ```{r}
 # install packages the first time
 install.packages(c("tidyr", "dplyr"))
